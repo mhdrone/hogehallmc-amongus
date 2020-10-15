@@ -4,7 +4,11 @@ A collaborative effort between [Hogehallmc](https://hogehallmc.com/), [GobbleCra
 
 ## About
 
-For two hours on Hallow's Eve's Eve (Friday Oct 30) from 8 to 10pm (est) we will be hosting multiple Among Us in Minecraft sessions for you to join. To join simply join our [Discord Server](https://discord.gg/D8dh3Z8) and connect to one of the Among Us voice channels during the event time! We've done some testing and found that while the original version of the game is intuitive, the Minecraft version is a little more confusing, to get you up to speed we will be making a tutorial video so join the Discord Server and stay turned.
+For two hours on Hallow's Eve's Eve (Friday Oct 30) from 8 to 10pm (est) we will be hosting multiple Among Us in Minecraft sessions for you to join. No this isn't a Among Us themed build session, we've actally found a [port of Among Us into Minecraft](https://phoenixsc.me/download-links/among-us-1-16-3/), we thought this discovery was just too cool not to share.
+
+To join simply follow the steps listed below in [Joining](#joining). Once you join the Discord Server don't hesitate to ask the admins questions about the event if you have any.
+
+We've done some testing and found that while the original version of the game is intuitive, the Minecraft version is a little more confusing, to get you up to speed we will be making a tutorial video so join the [Discord Server](https://discord.gg/D8dh3Z8) and stay turned.
 
 If you have a group that you wanna play with be sure to read [Want to join with a group?](#want-to-join-with-a-group) at the bottom of this page before the event. If you have any questions feel free to ask them in our Discord Server.
 
