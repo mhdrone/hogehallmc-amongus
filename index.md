@@ -15,7 +15,7 @@ If you have a group that you wanna play with be sure to read [Want to join with 
 ## Joining
 
 1. Join our [Discord Server](https://discord.gg/D8dh3Z8)!
-2. Connect to the Halloween Event Lobby Voice Channel:  
+2. Connect to the Halloween Event Lobby Voice Channel (at the time of the event):  
    ![Discord Event Lobby](discord-lobby.png)
 3. Wait for a staff member to route you into a server voice channel!
 4. Connect to the server address listed in the Text Channel right above your voice channel!
