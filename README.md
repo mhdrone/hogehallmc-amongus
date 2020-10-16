@@ -7,4 +7,5 @@ generate the .html files from the .md files
 
 [AmongUsTutorial.md](AmongUsTutorial.md) = hogehallmc.com/amongus/cheatsheet.html  
 [index.md](index.md) = hogehallmc.com/amongus/  
-[announcement.md](announcement.md) = discord announcement
+[announcement.md](announcement.md) = discord announcement  
+[textChannelInfo.md](textChannelInfo.md) = the info message that will be posted above every voice channel
