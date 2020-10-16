@@ -7,3 +7,5 @@ For 2 hours on Hallow's Eve's Eve (Friday Oct 30) at 8 pm we will be hosting mul
 To learn more about this event and how to join visit https://hogehallmc.com/amongus/
 
 This event is open to everyone.
+
+![poster4.png](poster4.png) ![reactor](reactor.png) ![storage](storage.png) ![emergency buttons](meetingbuttons.png)
