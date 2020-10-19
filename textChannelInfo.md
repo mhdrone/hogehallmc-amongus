@@ -5,7 +5,7 @@ We would like to quickly remind you of the rules:
 ```markdown
 1. Do not talk during the game unless an emergency meeting is called.
 
-2. If you are a ghost don't press button emergency meeting, security, or admin buttons.
+2. If you are a ghost don't press the emergency meeting, security, or admin buttons.
 
 3. Event administrators reserve the right to create any rule not listed above.
 ```
