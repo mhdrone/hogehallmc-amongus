@@ -7,7 +7,9 @@ We would like to quickly remind you of the rules:
 
 2. If you are a ghost don't press the emergency meeting, security, or admin buttons.
 
-3. Event administrators reserve the right to create any rule not listed above.
+3. No Griefing or trolling will be tolerated
+
+4. Event administrators reserve the right to create any rule not listed above.
 ```
 
 ***Failure to follow the above rules may result in a ban from all Among Us Servers***
