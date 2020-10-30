@@ -1,13 +1,15 @@
 # Among Us Tutorial
 
-Last update: 10/14/2020 - Not finished  
-Hint: Use `ctrl+f` to search through this document.
-
 ## Note
 
 **Make sure you have partials turned on, if you do not you will not be able to tell which task in the room is active.** To turn on partials navigate to `Options > Video Settings > Particles` And make sure it is either set to `Minimal` or `All`.
 
 ## Rules:
+
+1. Do not talk during the game unless an emergency meeting is called.
+2. If you are a ghost don't press the emergency meeting, security, or admin buttons.
+3. No Griefing or trolling will be tolerated
+4. Event administrators reserve the right to create any rule not listed above.
 
 ***Failure to follow the following rules may result in a ban from all Among Us Sessions.***
 
